@@ -1,0 +1,8 @@
+RestFulBooker\putExamples\BDDStylePutRequest.class
+RestFulBooker\getExamples\BDDStyleGetRequestWithStaticImport.class
+RestFulBooker\getExamples\BDDStyleGetRequest.class
+RestFulBooker\getExamples\GetBookingIds_RestfulBookerUsingBDDStyleAndStaticImport.class
+RestFulBooker\getExamples\NonBDDStyleGetRequest.class
+RestFulBooker\PostExamples\BDDStylePostRequest.class
+RestFulBooker\PostExamples\NonBDDStylePostRequest.class
+RestFulBooker\putExamples\NonBDDPutRequest.class
